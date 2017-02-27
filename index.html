@@ -26,7 +26,7 @@
 <div ng-controller="board">
 	<ul>
 		<h1> company names:</h1>
-		<li ng-repeat="company in companies.slice(((currentPage-1)*itemsPerPage), ((currentPage)*itemsPerPage)) | filter:globalSearch | limitTo:8">
+		<li ng-repeat="company in companies | filter:globalSearch | limitTo:8">
 			{{company.id + ' : ' + company.name + ' : ' + company.employees}}
 		</li>
 	</ul>
