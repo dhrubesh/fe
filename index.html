@@ -19,14 +19,18 @@
 <body ng-app="mainApp">
 <div ng-controller="board">
 
-	<input type="text" ng-model="searchBox">
 	<ul>
 		<h1> company names:</h1>
-		<li ng-repeat="company in companies | filter:{company:searchBox}">
-			{{company.id+':'+company.name}}
+		<li ng-repeat="company in companies | filter:globalSearch">
+			{{company.id + ' : ' + company.name + ' : ' + company.employees}}
 		</li>
 	</ul>
 </div>
-
+<div id="search">
+	global:<input type=" text" ng-model="globalSearch.$"><br>
+	name:<input type=" text" ng-model="globalSearch.name"><br>
+	employees no.:<input type=" text" ng-model="globalSearch.employees">
+	
+</div>
 </body>
 </html>
