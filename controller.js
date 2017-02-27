@@ -24,16 +24,7 @@ $scope.setItemsPerPage = function(num) {
 }
 };
 });
- 		app.config(function($routeProvider) {
-    $routeProvider
-    .when("/", {
-        templateUrl : "main.html"
-    })
-    .when("/detail", {
-        templateUrl : "detail.html"
-
-    });
-});
+ 		
 
  
  });
