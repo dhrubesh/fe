@@ -25,7 +25,7 @@
 <div ng-controller="board">
 	<ul>
 		<h1> company names:</h1>
-		<li ng-repeat="company in companies | filter:globalSearch |">
+		<li ng-repeat="company in companies | filter:globalSearch ">
 			{{company.id + ' : ' + company.name + ' : ' + company.employees}}
 		</li>
 	</ul>
