@@ -22,7 +22,7 @@
 	<ul>
 		<h1> company names:</h1>
 		<li ng-repeat="company in companies | filter:searchBox">
-			<span>{{company.id}}</span><span>{{company.name}}</span>
+			{{company.id+':'+company.name}}
 		</li>
 	</ul>
 </div>
