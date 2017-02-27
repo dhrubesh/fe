@@ -1,0 +1,384 @@
+{
+	"Company":[
+	 {
+
+	"id": "1",
+	"name": "AgriPlus",
+	"email":" contact@agriplus.ng",
+	"website": "www.agriplus.ng",
+	"revenue": {
+		"2012": "200000",
+		"2013": "220000",
+		"2014": "220000",
+		"2015": "230000",
+		"2016": "220000"
+	},
+	"employees": "20",
+	"industry": "Agri-Tech",
+	"openForInvestment": "true",
+	"investmentNeeded": "50000"
+
+	},
+	{
+
+	"id": "2",
+	"name": "alpha",
+	"email":" contact@agriplus.ng",
+	"website": "www.agriplus.ng",
+	"revenue": {
+		"2012": "200000",
+		"2013": "220000",
+		"2014": "220000",
+		"2015": "230000",
+		"2016": "220000"
+	},
+	"employees": "20",
+	"industry": "Agri-Tech",
+	"openForInvestment": "true",
+	"investmentNeeded": "50000"
+
+	},
+	{
+
+	"id": "3",
+	"name": "lol",
+	"email":" contact@agriplus.ng",
+	"website": "www.agriplus.ng",
+	"revenue": {
+		"2012": "200000",
+		"2013": "220000",
+		"2014": "220000",
+		"2015": "230000",
+		"2016": "220000"
+	},
+	"employees": "20",
+	"industry": "Agri-Tech",
+	"openForInvestment": "true",
+	"investmentNeeded": "50000"
+
+	},
+	{
+
+	"id": "4",
+	"name": "kidd",
+	"email":" contact@agriplus.ng",
+	"website": "www.agriplus.ng",
+	"revenue": {
+		"2012": "200000",
+		"2013": "220000",
+		"2014": "220000",
+		"2015": "230000",
+		"2016": "220000"
+	},
+	"employees": "20",
+	"industry": "Agri-Tech",
+	"openForInvestment": "true",
+	"investmentNeeded": "50000"
+
+	},
+	{
+
+	"id": "5",
+	"name": "haha",
+	"email":" contact@agriplus.ng",
+	"website": "www.agriplus.ng",
+	"revenue": {
+		"2012": "200000",
+		"2013": "220000",
+		"2014": "220000",
+		"2015": "230000",
+		"2016": "220000"
+	},
+	"employees": "20",
+	"industry": "Agri-Tech",
+	"openForInvestment": "true",
+	"investmentNeeded": "50000"
+
+	},
+	{
+
+	"id": "6",
+	"name": "bllpha",
+	"email":" contact@agriplus.ng",
+	"website": "www.agriplus.ng",
+	"revenue": {
+		"2012": "200000",
+		"2013": "220000",
+		"2014": "220000",
+		"2015": "230000",
+		"2016": "220000"
+	},
+	"employees": "20",
+	"industry": "Agri-Tech",
+	"openForInvestment": "true",
+	"investmentNeeded": "50000"
+
+	},
+	{
+
+	"id": "7",
+	"name": "cool",
+	"email":" contact@agriplus.ng",
+	"website": "www.agriplus.ng",
+	"revenue": {
+		"2012": "200000",
+		"2013": "220000",
+		"2014": "220000",
+		"2015": "230000",
+		"2016": "220000"
+	},
+	"employees": "20",
+	"industry": "Agri-Tech",
+	"openForInvestment": "true",
+	"investmentNeeded": "50000"
+
+	},
+	{
+
+	"id": "8",
+	"name": "eit",
+	"email":" contact@agriplus.ng",
+	"website": "www.agriplus.ng",
+	"revenue": {
+		"2012": "200000",
+		"2013": "220000",
+		"2014": "220000",
+		"2015": "230000",
+		"2016": "220000"
+	},
+	"employees": "20",
+	"industry": "Agri-Tech",
+	"openForInvestment": "true",
+	"investmentNeeded": "50000"
+
+	},
+	{
+
+	"id": "9",
+	"name": "kkom",
+	"email":" contact@agriplus.ng",
+	"website": "www.agriplus.ng",
+	"revenue": {
+		"2012": "200000",
+		"2013": "220000",
+		"2014": "220000",
+		"2015": "230000",
+		"2016": "220000"
+	},
+	"employees": "20",
+	"industry": "Agri-Tech",
+	"openForInvestment": "true",
+	"investmentNeeded": "50000"
+
+	},
+	{
+
+	"id": "10",
+	"name": "lyla",
+	"email":" contact@agriplus.ng",
+	"website": "www.agriplus.ng",
+	"revenue": {
+		"2012": "200000",
+		"2013": "220000",
+		"2014": "220000",
+		"2015": "230000",
+		"2016": "220000"
+	},
+	"employees": "20",
+	"industry": "Agri-Tech",
+	"openForInvestment": "true",
+	"investmentNeeded": "50000"
+
+	},
+	{
+
+	"id": "11",
+	"name": "shoee",
+	"email":" contact@agriplus.ng",
+	"website": "www.agriplus.ng",
+	"revenue": {
+		"2012": "200000",
+		"2013": "220000",
+		"2014": "220000",
+		"2015": "230000",
+		"2016": "220000"
+	},
+	"employees": "20",
+	"industry": "Agri-Tech",
+	"openForInvestment": "true",
+	"investmentNeeded": "50000"
+
+	},
+	{
+
+	"id": "12",
+	"name": "looool",
+	"email":" contact@agriplus.ng",
+	"website": "www.agriplus.ng",
+	"revenue": {
+		"2012": "200000",
+		"2013": "220000",
+		"2014": "220000",
+		"2015": "230000",
+		"2016": "220000"
+	},
+	"employees": "20",
+	"industry": "Agri-Tech",
+	"openForInvestment": "true",
+	"investmentNeeded": "50000"
+
+	},
+	{
+
+	"id": "13",
+	"name": "huhaaaa",
+	"email":" contact@agriplus.ng",
+	"website": "www.agriplus.ng",
+	"revenue": {
+		"2012": "200000",
+		"2013": "220000",
+		"2014": "220000",
+		"2015": "230000",
+		"2016": "220000"
+	},
+	"employees": "20",
+	"industry": "Agri-Tech",
+	"openForInvestment": "true",
+	"investmentNeeded": "50000"
+
+	},
+	{
+
+	"id": "14",
+	"name": "okok",
+	"email":" contact@agriplus.ng",
+	"website": "www.agriplus.ng",
+	"revenue": {
+		"2012": "200000",
+		"2013": "220000",
+		"2014": "220000",
+		"2015": "230000",
+		"2016": "220000"
+	},
+	"employees": "20",
+	"industry": "Agri-Tech",
+	"openForInvestment": "true",
+	"investmentNeeded": "50000"
+
+	},
+	{
+
+	"id": "15",
+	"name": "aheem",
+	"email":" contact@agriplus.ng",
+	"website": "www.agriplus.ng",
+	"revenue": {
+		"2012": "200000",
+		"2013": "220000",
+		"2014": "220000",
+		"2015": "230000",
+		"2016": "220000"
+	},
+	"employees": "20",
+	"industry": "Agri-Tech",
+	"openForInvestment": "true",
+	"investmentNeeded": "50000"
+
+	},
+	{
+
+	"id": "16",
+	"name": "sixteen",
+	"email":" contact@agriplus.ng",
+	"website": "www.agriplus.ng",
+	"revenue": {
+		"2012": "200000",
+		"2013": "220000",
+		"2014": "220000",
+		"2015": "230000",
+		"2016": "220000"
+	},
+	"employees": "20",
+	"industry": "Agri-Tech",
+	"openForInvestment": "true",
+	"investmentNeeded": "50000"
+
+	},
+	{
+
+	"id": "17",
+	"name": "olryt",
+	"email":" contact@agriplus.ng",
+	"website": "www.agriplus.ng",
+	"revenue": {
+		"2012": "200000",
+		"2013": "220000",
+		"2014": "220000",
+		"2015": "230000",
+		"2016": "220000"
+	},
+	"employees": "20",
+	"industry": "Agri-Tech",
+	"openForInvestment": "true",
+	"investmentNeeded": "50000"
+
+	},
+	{
+
+	"id": "18",
+	"name": "fewwww",
+	"email":" contact@agriplus.ng",
+	"website": "www.agriplus.ng",
+	"revenue": {
+		"2012": "200000",
+		"2013": "220000",
+		"2014": "220000",
+		"2015": "230000",
+		"2016": "220000"
+	},
+	"employees": "20",
+	"industry": "Agri-Tech",
+	"openForInvestment": "true",
+	"investmentNeeded": "50000"
+
+	},
+	{
+
+	"id": "19",
+	"name": "moore",
+	"email":" contact@agriplus.ng",
+	"website": "www.agriplus.ng",
+	"revenue": {
+		"2012": "200000",
+		"2013": "220000",
+		"2014": "220000",
+		"2015": "230000",
+		"2016": "220000"
+	},
+	"employees": "20",
+	"industry": "Agri-Tech",
+	"openForInvestment": "true",
+	"investmentNeeded": "50000"
+
+	},
+	{
+
+	"id": "20",
+	"name": "last",
+	"email":" contact@agriplus.ng",
+	"website": "www.agriplus.ng",
+	"revenue": {
+		"2012": "200000",
+		"2013": "220000",
+		"2014": "220000",
+		"2015": "230000",
+		"2016": "220000"
+	},
+	"employees": "20",
+	"industry": "Agri-Tech",
+	"openForInvestment": "true",
+	"investmentNeeded": "50000"
+
+	}
+]
+}
