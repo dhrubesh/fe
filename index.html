@@ -17,10 +17,11 @@
 	
 </style>
 <body ng-app="mainApp">
+	<input type="text" ng-model="searchBox">
 <div ng-controller="board">
 	<ul>
 		<h1> company names:</h1>
-		<li ng-repeat="company in companies">
+		<li ng-repeat="company in companies | filter:searchBox">
 			{{company.id+':'+company.name}}
 		</li>
 	</ul>
