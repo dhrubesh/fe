@@ -3,9 +3,7 @@
  		$http.get('https://raw.githubusercontent.com/dhrubesh/fe/master/companies.json')
  		.success(function(response){
  			$scope.companies=response.Company;
- 		});
-
- 		var PaginationDemoCtrl = function ($scope) {
+ 				var PaginationDemoCtrl = function ($scope) {
   $scope.viewby = 8;
   $scope.totalItems =20;
   $scope.currentPage = 1;
@@ -25,4 +23,7 @@ $scope.setItemsPerPage = function(num) {
   $scope.currentPage = 1; //reset to first paghe
 }
 };
+ 		});
+
+ 
  });
