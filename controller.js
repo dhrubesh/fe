@@ -23,7 +23,17 @@ $scope.setItemsPerPage = function(num) {
   $scope.currentPage = 1; //reset to first paghe
 }
 };
- 		});
+});
+ 		app.config(function($routeProvider) {
+    $routeProvider
+    .when("/", {
+        templateUrl : "main.html"
+    })
+    .when("/detail", {
+        templateUrl : "detail.html"
+
+    });
+});
 
  
  });
